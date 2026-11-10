@@ -1,0 +1,6 @@
+sku,name,description,price,currency,category_name,stock,image_url,is_active,brand,warranty_months,model_number
+1001,Ноутбук Lenovo IdeaPad 3,Бюджетный ноутбук для работы и учебы,45990,RUB,Компьютеры,5,/images/laptop.jpg,true,Lenovo,24,IdeaPad 3-15
+1002,Мышь Logitech M185,Беспроводная мышь с USB-приемником,1290,RUB,Периферия,10,/images/mouse.jpg,true,Logitech,12,M185
+1003,Клавиатура A4Tech Bloody V3M,Механическая игровая клавиатура,3490,RUB,Периферия,7,/images/keyboard.jpg,false,A4Tech,24,V3M
+1004,Монитор Dell S27220C,Игровой монитор 27 дюймов,29990,RUB,Компьютеры,3,/images/monitor.jpg,true,Dell,24,S27220C
+1005,Видеокарта NVIDIA GeForce RTX 3060,Графическая карта для игр и работы,24990,RUB,Компьютеры,4,/images/gpu.jpg,true,NVIDIA,36,RTX3060
