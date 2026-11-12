@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ECommerceCsvImport/ECommerceCsvImport.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ECommerceCsvImport.Tests/ECommerceCsvImport.Tests.csproj" />
+  </Folder>
+</Solution>
